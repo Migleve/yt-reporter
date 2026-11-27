@@ -1,5 +1,9 @@
 # YT Reporter
 
+![Edición de ejemplo del Reporter](docs/screenshot.png)
+
+*Edición de ejemplo con canales públicos; los resúmenes son ilustrativos.*
+
 Un **diario personal de los canales de YouTube que sigues**. Cada día publica una edición web con los vídeos nuevos, un resumen corto de cada uno y un enlace al original. Desde cada tarjeta puedes **hacer preguntas sobre el vídeo** o marcar una idea para **implementarla**.
 
 Las respuestas salen de las transcripciones guardadas en [NotebookLM](https://notebooklm.google.com), a través de la CLI `nlm`. El agente distingue siempre lo que **dice el creador** de lo que **deduce la IA**.
