@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+channels.json
+state.json
+reporter/
+tmp/

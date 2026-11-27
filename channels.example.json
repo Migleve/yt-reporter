@@ -1,0 +1,13 @@
+{
+  "feed_per_channel": 3,
+  "report_url": "http://127.0.0.1:8765/",
+  "channels": {
+    "mi-canal": {
+      "name": "Mi canal",
+      "channel_id": "UCxxxxxxxxxxxxxxxxxxxxxx",
+      "url": "https://www.youtube.com/@micanal",
+      "notebook_title": "Mi canal",
+      "notebooks": []
+    }
+  }
+}
